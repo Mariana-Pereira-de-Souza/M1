@@ -61,6 +61,8 @@ A reinvenção do Pong busca explorar a diversão e leveza de um ambiente praian
 
 ## 4. Tela Digital do Jogo  
 ![image](https://github.com/user-attachments/assets/997f33d3-711a-429c-b638-d80d13450325)
+![Rascunho](https://github.com/user-attachments/assets/a83e62d1-ed6d-4a63-8742-58c7e9e92d52)
+
 [link para o arquivo](https://www.canva.com/design/DAGe-8KT-2g/Awu4TmbkmbECTUpc7F-OaQ/edit?utm_content=DAGe-8KT-2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  
 
 Adaptação do Concept para o Formato Digital:
